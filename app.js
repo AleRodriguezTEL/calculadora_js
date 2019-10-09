@@ -1,7 +1,7 @@
 var calculadora = {
+<<<<<<< HEAD
     //Probando git equisde
     sumar: function sumarNumeros(n1, n2) {
-    	//
     },
 
     restar: function restarNumeros(n1, n2) {
